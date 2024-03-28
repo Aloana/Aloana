@@ -20,6 +20,7 @@ Graduanda em Bacharelado em Sistemas de Informação (XPE)
 Graduanda em Tecnologia em Sistemas para Computação (UFF/CEDERJ)
 ## 🔗 Links
 PORTFOLIO IN PROGRESS
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloana-neto/)
 
 
