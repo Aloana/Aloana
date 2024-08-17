@@ -13,11 +13,10 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma estagiária de desenvolvimento back-end
+Eu sou uma desenvolvedora back-end
 
 Graduanda em Bacharelado em Sistemas de Informação (XPE)
 
-Graduanda em Tecnologia em Sistemas para Computação (UFF/CEDERJ)
 ## 🔗 Links
 PORTFOLIO IN PROGRESS
 
