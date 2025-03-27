@@ -11,19 +11,20 @@
 😄 Pronomes ela/dela | she/her
 
 
-
-## 🚀 Sobre mim
+<h2 align="left">🚀 Sobre mim</h2>
+## 
 Eu sou uma desenvolvedora back-end
 
 Graduanda em Bacharelado em Sistemas de Informação (XPE)
 
-## 🔗 Links
+<h2 align="left">🔗 Links</h2>
+## 
 PORTFOLIO IN PROGRESS
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloana-neto/)
 
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">🛠 Tecnologias</h2>
 
 ###
 
