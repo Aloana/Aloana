@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=884EF7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Aloana!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-👩‍💻 Trabalho atualmente na HBI
 
 🧠 Estou aprendendo PHP 8 | CI4 | SQL
 
