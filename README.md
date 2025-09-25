@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=884EF7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Aloana!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-🧠 Estou aprendendo PHP 8 | CI4 | SQL
-
 👯‍♀️ Procuro colaborar em projetos voltados a ciência, educação e projetos socioambientais
 
 😄 Pronomes ela/dela | she/her
@@ -11,13 +9,11 @@
 
 <h2 align="left">🚀 Sobre mim</h2>
 ## 
-Eu sou uma desenvolvedora back-end
+Eu sou uma desenvolvedora back-end jr.
 
 Graduanda em Bacharelado em Sistemas de Informação (XPE)
 
 <h2 align="left">🔗 Links</h2>
-## 
-PORTFOLIO IN PROGRESS
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aloana-neto/)
 
