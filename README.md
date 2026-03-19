@@ -5,9 +5,9 @@
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="middle" width="60%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="middle" width="60%" style="border: none;">
       <div style="font-size: 1.25em; line-height: 2.8; margin-left: 10px;">
         🌎 I'm from <strong>Minas Gerais, Brazil</strong>
         <br>
@@ -24,8 +24,8 @@
         📚 Enthusiast of sharing knowledge and learning new things
       </div>
     </td>
-    <td valign="middle" align="right" width="40%">
-      <img src="img/shooting-stars.gif" width="100%" alt="Star Animation">
+    <td valign="middle" align="right" width="40%" style="border: none;">
+      <img src="img/shooting-stars.gif" width="100%" style="display: block; margin-left: auto;">
     </td>
   </tr>
 </table>
